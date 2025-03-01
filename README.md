@@ -1,14 +1,16 @@
-# Assembly Endgame
+# Assembly Endgame - React Project 🚀  
 
-I recreated the **Assembly Endgame** React app as part of my Full Stack Developer journey, applying key React concepts such as:  
-## ⚙ The applied React key concept 🚀
-- 🎨 **Styling**  
-- ⚛️ **JSX & Custom Components**  
-- 🔗 **Props**  
+I recreated the **Assembly Endgame** React app as part of my **Full Stack Development journey**, based on the **Scrimba Learn React** course by Bob Ziroll.  
+
+## 🔹 Key React Concepts Applied  
+- ⚛ **JSX & Custom Components**  
 - 🔄 **State Management (`useState` & `useEffect`)**  
 - 🎭 **Conditional Rendering**  
-- 📝 **Forms in React**  
+- 🔗 **Props**  
+- 🎨 **Styling**  
 
-This project is based on the **[Scrimba Learn React](https://github.com/scrimba/learn-react)** course by **Bob Ziroll**. My goal was to solidify my understanding of React fundamentals while enhancing my problem-solving skills.  
+## 🚀 Live Demo & Source Code  
+🔗 **Live Demo:** [Click Here](https://assembly-endgame-en8ywrodk-mojaheds-projects-e0735fac.vercel.app/)  
+💻 **GitHub Repository:** [View on GitHub](https://github.com/Mojahedhu/Assembly_Endgame.git)  
 
-Feel free to check out the code and provide any feedback! 🚀  
+Feel free to explore the project and share your feedback! 🚀  
