@@ -9,7 +9,7 @@ I recreated the **Assembly Endgame** React app as part of my **Full Stack Develo
 - 🔗 **Props**  
 - 🎨 **Styling**  
 
-## 🚀 Live Demo & Source Code  
+## 🚀 Live Demo 
 🔗 **Live Demo:** [Click Here](https://assembly-endgame-en8ywrodk-mojaheds-projects-e0735fac.vercel.app/)  
 
 
